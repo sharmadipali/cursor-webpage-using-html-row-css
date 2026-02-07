@@ -1,140 +1,151 @@
-Cursor Landing Page – UI Recreation
+##Cursor Landing Page – UI Recreation
 
-This project is a frontend UI recreation of the Cursor website landing page, built using HTML and CSS. The goal of this project is to practice layout structuring, typography, spacing, and dark-theme design consistency.
+-This project is a frontend UI recreation of the Cursor website landing page, built using HTML and CSS. The goal of this project is to practice layout structuring, typography, spacing, and dark-theme design consistency.
 
-Sections Recreated
+---
 
-The following sections from the original Cursor website were recreated:
+##Sections Recreated
 
-Hero Section
+-The following sections from the original Cursor website were recreated:
 
-Main headline and subheading
+-Hero Section
 
-Primary call-to-action button
+-Main headline and subheading
 
-Editor preview image
+-Primary call-to-action button
 
-Trusted By / Logo Strip
+-Editor preview image
 
-Company logos displayed in a horizontal row
+-Trusted By / Logo Strip
 
-Feature Sections
+-Company logos displayed in a horizontal row
 
-AI Agents description
+---
 
-Code assistance and automation highlights
+##Feature Sections
 
-Side-by-side text and image layouts
+-Code assistance and automation highlights
 
-Code Preview Sections
+-Side-by-side text and image layouts
 
-Dark-themed code blocks
+-Code Preview Sections
 
-Syntax-styled UI mockups
+-Dark-themed code blocks
 
-Testimonials Section
+-Testimonials Section
 
-User feedback cards
+-User feedback cards
 
-Profile images and short quotes
+-Profile images and short quotes
 
-Changelog Section
+-Changelog Section
 
-Version cards with brief update descriptions
+-Version cards with brief update descriptions
 
-Call to Action
+-Call to Action
 
-“Try Cursor now” section with button
+-Footer
 
-Footer
+-Product links
 
-Product links
+-Company links
 
-Company links
+-Legal and social references
 
-Legal and social references
+---
 
-Fonts Used
+##Fonts Used
 
-The project uses system and web-safe fonts to closely match the original design:
+-The project uses system and web-safe fonts to closely match the original design:
 
-Primary Font:
+-Primary Font:
 Inter, sans-serif
 
-Fallback Fonts:
+-Fallback Fonts:
 system-ui, -apple-system, Segoe UI, Roboto, Arial
 
-Font weights used:
+--
 
-Regular (400)
+#Font weights used:
 
-Medium (500)
+-Regular (400)
 
-Semi-Bold (600)
+-Medium (500)
 
-Bold (700)
+-Semi-Bold (600)
 
-Colors Used
+-Bold (700)
 
-The design follows a dark UI theme with subtle contrast and accent highlights.
+---
 
-Primary Colors
+##Colors Used
 
-Background:
+-The design follows a dark UI theme with subtle contrast and accent highlights.
+
+#Primary Colors
+
+-Background:
 #0b0b0b / #0f0f0f
 
-Section Backgrounds:
+-Section Backgrounds:
 #121212, #161616
 
-Text Colors
+#Text Colors
 
-Primary Text:
+-Primary Text:
 #ffffff
 
-Secondary Text:
+-Secondary Text:
 #b3b3b3
 
-Muted Text:
+-Muted Text:
 #8a8a8a
 
-Accent Colors
+#Accent Colors
 
-Primary Accent (Buttons / Links):
+-Primary Accent (Buttons / Links):
 #f97316 (Orange)
 
-Hover Accent:
+-Hover Accent:
 #fb923c
 
-Borders & Dividers
+#Borders & Dividers
 
-Border Color:
+-Border Color:
 #1f1f1f
 
-Card Outline:
+-Card Outline:
 #262626
 
-Technologies Used
+---
 
-HTML5
+##Technologies Used
 
-CSS3
+-HTML5
 
-Flexbox for layout
+-CSS3
 
-Responsive design techniques
+-Flexbox for layout
 
-Dark theme UI styling
+-Dark theme UI styling
 
-Purpose of the Project
+---
 
-Improve UI recreation skills
+##Purpose of the Project
 
-Practice spacing, alignment, and typography
+-Improve UI recreation skills
 
-Understand real-world landing page structure
+-Practice spacing, alignment, and typography
 
-Build confidence in dark-theme layouts
+-Understand real-world landing page structure
 
-Webpage screenshot
+-Build confidence in dark-theme layouts
+
+-Webpage screenshot
+
+---
+
+##Webpage Screenshot
+
 
 <img width="1900" height="9740" alt="cursor-webpage-using-html-row-css vercel app_" src="https://github.com/user-attachments/assets/2041a97f-e9ba-4f0c-8b09-5c0025069b0c" />
