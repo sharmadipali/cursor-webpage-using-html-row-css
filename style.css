@@ -13,9 +13,15 @@
 body {
   background-color: var(--background-color);
   height: 100vh;
-  font-family:
-    CursorGothic, "CursorGothic Fallback", system-ui, "Helvetica Neue",
-    Helvetica, Arial, sans-serif;
+  font-family: 'CursorGothic', sans-serif;
+  
+}
+@font-face {
+    font-family: 'CursorGothic'; 
+    src: url('fonts/CursorGothic_Regular-s.p.a361088d.woff2') format('woff2'),
+    font-display: swap;
+  font-weight: 400;
+  font-style: normal;
 }
 .navbar {
   display: flex;
@@ -219,7 +225,7 @@ body {
   color: var(--anchor-text-color);
 }
 .forth-container span:hover {
-  color: rgb(163, 52, 1);
+  color: rgb(165, 53, 1);
 }
 .fifth-container {
   background-color: rgb(27, 25, 19);
@@ -249,7 +255,7 @@ body {
 }
 
 .fifth-container span:hover {
-  color: rgb(159, 52, 2);
+  color: rgb(165, 53, 1);
 }
 .fifth-container img {
   width: 100%;
@@ -301,7 +307,7 @@ body {
   font-size: 14px;
 }
 .first span:hover {
-  color: rgb(143, 47, 2);
+  color:  rgb(165, 53, 1);
 }
 .sixth-container-cards .second {
   background-color: rgb(27, 25, 19);
@@ -331,7 +337,7 @@ body {
   font-size: 14px;
 }
 .second span:hover {
-  color: rgb(149, 48, 2);
+  color:  rgb(165, 53, 1);
 }
 .sixth-container-cards .third {
   background-color: rgb(27, 25, 19);
@@ -362,7 +368,7 @@ body {
   font-size: 14px;
 }
 .third span:hover {
-  color: rgb(164, 54, 3);
+  color:  rgb(165, 53, 1);
 }
 .sixth-container-cards .forth {
   background-color: rgb(27, 25, 19);
@@ -392,7 +398,7 @@ body {
   font-size: 14px;
 }
 .forth span:hover {
-  color: rgb(137, 45, 2);
+  color: rgb(165, 53, 1);
 }
 .sixth-container-cards .fifth {
   background-color: rgb(27, 25, 19);
@@ -422,7 +428,7 @@ body {
   font-size: 14px;
 }
 .fifth span:hover {
-  color: rgb(149, 47, 0);
+  color: rgb(165, 53, 1);
 }
 .sixth-container-cards .sixth {
   background-color: rgb(27, 25, 19);
@@ -453,7 +459,7 @@ body {
   font-size: 14px;
 }
 .sixth span:hover {
-  color: rgb(158, 52, 2);
+  color: rgb(165, 53, 1);
 }
 .seventh-container {
   margin-bottom: 150px;
@@ -490,7 +496,7 @@ body {
   margin-bottom: 25px;
 }
 .card-first a:hover {
-  color: rgb(146, 47, 1);
+  color:  rgb(165, 53, 1);
 }
 .card-first video {
   margin-top: 25px;
@@ -515,7 +521,7 @@ body {
   margin-bottom: 25px;
 }
 .card-second a:hover {
-  color: rgb(138, 46, 3);
+  color: rgb(165, 53, 1);
 }
 .card-second video {
   margin-top: 25px;
@@ -540,7 +546,7 @@ body {
   margin-bottom: 25px;
 }
 .card-third a:hover {
-  color: rgb(137, 44, 0);
+  color:  rgb(165, 53, 1);
 }
 .card-third img {
   width: 100%;
@@ -610,7 +616,7 @@ body {
   font-size: 16px;
 }
 .eight-container a:hover {
-  color: rgb(156, 53, 6);
+  color:  rgb(165, 53, 1);
 }
 .nineth-container {
   background-color: rgb(27, 25, 19);
@@ -637,7 +643,7 @@ body {
   font-size: 18px;
 }
 .nineth-container span:hover {
-  color: rgb(158, 52, 3);
+  color:  rgb(165, 53, 1);
 }
 .nineth-container img {
   width: 100%;
@@ -719,7 +725,7 @@ body {
   top: 85%;
 }
 .tenth-container a:hover {
-  color: rgb(138, 46, 4);
+  color:  rgb(165, 53, 1);
 }
 .eleventh-container {
   display: flex;
